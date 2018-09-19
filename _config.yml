@@ -1,7 +1,7 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
-
+title: "Jain's resume Template"
+description: "Jain's resume Template"
+desc: Aj-jain/merge-conflict
 # Build settings
 markdown: kramdown
 sass:
